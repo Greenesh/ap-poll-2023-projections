@@ -26,30 +26,6 @@
     ]
   },
   {
-    "team_name": "TCU Horned Frogs",
-    "id": "uniCJ77YP",
-    "mascot": "The Horned Frogs",
-    "mascot_name": "SuperFrog",
-    "head_coach": "Sonny Dykes",
-    "conference": "Big-12",
-    "team_color_one": "#4D1979",
-    "team_color_two": "#A3A9AC",
-    "poll_position": [
-      {
-        "current_poll": 2,
-        "predicted_poll": 11
-      }
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/1920px-TCU_Horned_Frogs_logo.svg.png",
-    "university_info": [
-      {
-        "name": "Texas Christian University",
-        "location": "Fort Worth, Texas",
-        "date_founded": 1873
-      }
-    ]
-  },
-  {
     "team_name": "Michigan Wolverines",
     "id": "uni8NW6T5",
     "mascot": "The Wolverines",
@@ -61,7 +37,9 @@
     "poll_position": [
       {
         "current_poll": 3,
-        "predicted_poll": 2
+        "predicted_poll": 2,
+        "wins":13,
+        "losses":1
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/1200px-Michigan_Wolverines_logo.svg.png",
@@ -85,7 +63,9 @@
     "poll_position": [
       {
         "current_poll": 4,
-        "predicted_poll": 3
+        "predicted_poll": 3,
+        "wins":11,
+        "losses":2
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1200px-Ohio_State_Buckeyes_logo.svg.png",
@@ -109,7 +89,9 @@
     "poll_position": [
       {
         "current_poll": 5,
-        "predicted_poll": 4
+        "predicted_poll": 4,
+        "wins":11,
+        "losses":2
       }
     ],
 
@@ -119,30 +101,6 @@
         "name": "University of Alabama",
         "location": "Tuscaloosa, Alabama",
         "date_founded": 1820
-      }
-    ]
-  },
-  {
-    "team_name": "Tennessee Volunteers",
-    "id": "uniQY0APQ",
-    "mascot": "The Volunteers",
-    "mascot_name": "Smokey the Bluetick Coonhound",
-    "head_coach": "Josh Heupel",
-    "conference": "SEC",
-    "team_color_one": "#FF8200",
-    "team_color_two": "#58595B",
-    "poll_position": [
-      {
-        "current_poll": 6,
-        "predicted_poll": 8
-      }
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/303px-Tennessee_Volunteers_logo.svg.png",
-    "university_info": [
-      {
-        "name": "University of Tennessee",
-        "location": "Knoxville, Tennessee",
-        "date_founded": 1794
       }
     ]
   },
@@ -158,7 +116,9 @@
     "poll_position": [
       {
         "current_poll": 7,
-        "predicted_poll": 5
+        "predicted_poll": 5,
+        "wins":11,
+        "losses":2
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1280px-Penn_State_Nittany_Lions_logo.svg.png",
@@ -167,54 +127,6 @@
         "name": "Penn State University",
         "location": "University Park, Pennsylvania",
         "date_founded": 1855
-      }
-    ]
-  },
-  {
-    "team_name": "Washington Huskies",
-    "id": "uniMZVOAG",
-    "mascot": "The Huskies",
-    "mascot_name": "Dubs II",
-    "head_coach": "Kalen DeBoer",
-    "conference": "Pac-12",
-    "team_color_one": "#4B2E83",
-    "team_color_two": "#B7A57A",
-    "poll_position": [
-      {
-        "current_poll": 8,
-        "predicted_poll": 7
-      }
-    ],
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1024px-University_of_Washington_seal.svg.png",
-    "university_info": [
-      {
-        "name": "University of Washington",
-        "location": "Seattle, Washington",
-        "date_founded": 1861
-      }
-    ]
-  },
-  {
-    "team_name": "Tulane Green Wave",
-    "id": "uniHGJ949",
-    "mascot": "The Green Wave",
-    "mascot_name": "Riptide",
-    "head_coach": "Willie Fritz",
-    "conference": "AAC",
-    "team_color_one": "#006747",
-    "team_color_two": "#FFFFFF",
-    "poll_position": [
-      {
-        "current_poll": 9,
-        "predicted_poll": 14
-      }
-    ],
-    "logo": "https://tulanegreenwave.com/images/logos/site/site.png",
-    "university_info": [
-      {
-        "name": "Tulane University",
-        "location": "New Orleans, Louisiana",
-        "date_founded": 1834
       }
     ]
   },
@@ -230,7 +142,9 @@
     "poll_position": [
       {
         "current_poll": 10,
-        "predicted_poll": 6
+        "predicted_poll": 6,
+        "wins":10,
+        "losses":3
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/01/Florida-State-Seminoles-Logo-Colors.png",
@@ -243,26 +157,54 @@
     ]
   },
   {
-    "team_name": "Utah Utes",
-    "id": "uniCT4ZOB",
-    "mascot": "The Utes",
-    "mascot_name": "Swoop the Red-Tailed Hawk",
-    "head_coach": "Kyle Whittingham",
+    "team_name": "Washington Huskies",
+    "id": "uniMZVOAG",
+    "mascot": "The Huskies",
+    "mascot_name": "Dubs II",
+    "head_coach": "Kalen DeBoer",
     "conference": "Pac-12",
-    "team_color_one": "#CC0000",
-    "team_color_two": "#000000",
+    "team_color_one": "#4B2E83",
+    "team_color_two": "#B7A57A",
     "poll_position": [
       {
-        "current_poll": 11,
-        "predicted_poll": 15
+        "current_poll": 8,
+        "predicted_poll": 7,
+        "wins":11,
+        "losses":2
       }
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Utah_Utes_logo.svg/1024px-Utah_Utes_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1024px-University_of_Washington_seal.svg.png",
     "university_info": [
       {
-        "name": "University of Utah",
-        "location": "Salt Lake City, Utah",
-        "date_founded": 1850
+        "name": "University of Washington",
+        "location": "Seattle, Washington",
+        "date_founded": 1861
+      }
+    ]
+  },
+  {
+    "team_name": "Tennessee Volunteers",
+    "id": "uniQY0APQ",
+    "mascot": "The Volunteers",
+    "mascot_name": "Smokey the Bluetick Coonhound",
+    "head_coach": "Josh Heupel",
+    "conference": "SEC",
+    "team_color_one": "#FF8200",
+    "team_color_two": "#58595B",
+    "poll_position": [
+      {
+        "current_poll": 6,
+        "predicted_poll": 8,
+        "wins":11,
+        "losses":2
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/303px-Tennessee_Volunteers_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Tennessee",
+        "location": "Knoxville, Tennessee",
+        "date_founded": 1794
       }
     ]
   },
@@ -278,7 +220,9 @@
     "poll_position": [
       {
         "current_poll": 15,
-        "predicted_poll": 9
+        "predicted_poll": 9,
+        "wins":11,
+        "losses":3
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1024px-Clemson_Tigers_logo.svg.png",
@@ -302,7 +246,9 @@
     "poll_position": [
       {
         "current_poll": 12,
-        "predicted_poll": 10
+        "predicted_poll": 10,
+        "wins":10,
+        "losses":4
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LSU_Athletics_logo.svg/1920px-LSU_Athletics_logo.svg.png",
@@ -311,6 +257,32 @@
         "name": "Louisiana State University",
         "location": "Baton Rouge, Louisiana",
         "date_founded": 1860
+      }
+    ]
+  },
+  {
+    "team_name": "TCU Horned Frogs",
+    "id": "uniCJ77YP",
+    "mascot": "The Horned Frogs",
+    "mascot_name": "SuperFrog",
+    "head_coach": "Sonny Dykes",
+    "conference": "Big-12",
+    "team_color_one": "#4D1979",
+    "team_color_two": "#A3A9AC",
+    "poll_position": [
+      {
+        "current_poll": 2,
+        "predicted_poll": 11,
+        "wins":13,
+        "losses":2
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/1920px-TCU_Horned_Frogs_logo.svg.png",
+    "university_info": [
+      {
+        "name": "Texas Christian University",
+        "location": "Fort Worth, Texas",
+        "date_founded": 1873
       }
     ]
   },
@@ -326,7 +298,9 @@
     "poll_position": [
       {
         "current_poll": 13,
-        "predicted_poll": 12
+        "predicted_poll": 12,
+        "wins":11,
+        "losses":3
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/02/USC_Trojans_logo.jpg",
@@ -348,7 +322,9 @@
     "poll_position": [
       {
         "current_poll": 16,
-        "predicted_poll": 13
+        "predicted_poll": 13,
+        "wins":10,
+        "losses":3
       }
     ],
     "head_coach": "Dan Lanning",
@@ -359,6 +335,58 @@
         "name": "University of Oregon",
         "location": "Eugene, Oregon",
         "date_founded": 1876
+      }
+    ]
+  },
+  {
+    "team_name": "Tulane Green Wave",
+    "id": "uniHGJ949",
+    "mascot": "The Green Wave",
+    "mascot_name": "Riptide",
+    "head_coach": "Willie Fritz",
+    "conference": "AAC",
+    "team_color_one": "#006747",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": 9,
+        "predicted_poll": 14,
+        "wins":12,
+        "losses":2
+      }
+    ],
+    "logo": "https://tulanegreenwave.com/images/logos/site/site.png",
+    "university_info": [
+      {
+        "name": "Tulane University",
+        "location": "New Orleans, Louisiana",
+        "date_founded": 1834
+      }
+    ]
+  },
+  {
+    "team_name": "Utah Utes",
+    "id": "uniCT4ZOB",
+    "mascot": "The Utes",
+    "mascot_name": "Swoop the Red-Tailed Hawk",
+    "head_coach": "Kyle Whittingham",
+    "conference": "Pac-12",
+    "team_color_one": "#CC0000",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": 11,
+        "predicted_poll": 15,
+        "wins":10,
+        "losses":4
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Utah_Utes_logo.svg/1024px-Utah_Utes_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Utah",
+        "location": "Salt Lake City, Utah",
+        "date_founded": 1850
       }
     ]
   },
@@ -374,7 +402,9 @@
     "poll_position": [
       {
         "current_poll": 18,
-        "predicted_poll": 16
+        "predicted_poll": 16,
+        "wins":9,
+        "losses":4
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/11/Notre_Dame_Fighting_Irish_logo.jpg",
@@ -398,7 +428,9 @@
     "poll_position": [
       {
         "current_poll": 17,
-        "predicted_poll": 17
+        "predicted_poll": 17,
+        "wins":10,
+        "losses":3
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/02/Oregon-State-Beavers-Logo-300x166.png",
@@ -422,7 +454,9 @@
     "poll_position": [
       {
         "current_poll": "Unranked",
-        "predicted_poll": 18
+        "predicted_poll": 18,
+        "wins":8,
+        "losses":5
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Texas_Longhorns_logo.jpg",
@@ -446,7 +480,9 @@
     "poll_position": [
       {
         "current_poll": 19,
-        "predicted_poll": 19
+        "predicted_poll": 19,
+        "wins":10,
+        "losses":4
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Kansas_State_Wildcats_logo.jpg",
@@ -470,7 +506,9 @@
     "poll_position": [
       {
         "current_poll": "Unranked",
-        "predicted_poll": 20
+        "predicted_poll": 20,
+        "wins":8,
+        "losses":5
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Texas_Tech_Red_Raiders_logo.jpg",
@@ -494,7 +532,9 @@
     "poll_position": [
       {
         "current_poll": "Unranked",
-        "predicted_poll": 21
+        "predicted_poll": 21,
+        "wins":8,
+        "losses":5
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/12/Iowa_Hawkeyes_logo.jpg",
@@ -517,8 +557,10 @@
     "team_color_two": "#FFFFFF",
     "poll_position": [
       {
-        "current_poll": 3,
-        "predicted_poll": 2
+        "current_poll": "Unranked",
+        "predicted_poll": 22,
+        "wins": 9,
+        "losses": 5
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/11/North_Carolina_Tar_Heels_logo.jpg",
@@ -542,7 +584,9 @@
     "poll_position": [
       {
         "current_poll": "Unranked",
-        "predicted_poll": 23
+        "predicted_poll": 23,
+        "wins":7,
+        "losses":6
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/10/Wisconsin_Badgers_logo.jpg",
@@ -566,7 +610,9 @@
     "poll_position": [
       {
         "current_poll": 20,
-        "predicted_poll": 24
+        "predicted_poll": 24,
+        "wins": 12,
+        "losses": 2
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2020/05/Troj-Troyans-Logo.png",
@@ -590,7 +636,9 @@
     "poll_position": [
       {
         "current_poll": "Unranked",
-        "predicted_poll": 25
+        "predicted_poll": 25,
+        "wins": 8,
+        "losses": 5
       }
     ],
     "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/10/Ole_Miss_Rebels_logo.jpg",
