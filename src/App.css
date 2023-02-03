@@ -67,6 +67,18 @@ h4 {
 .predicted {
   display: flex;
   justify-content: center;
+  animation-name: example;
+  animation-duration: 5s;
+}
+
+@keyframes example {
+  from {
+    background-color: darkred;
+  }
+
+  to {
+    background-color: gold;
+  }
 }
 
 .new-rank {
