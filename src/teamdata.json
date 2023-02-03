@@ -1,0 +1,605 @@
+[
+  {
+    "team_name": "Georgia Bulldogs",
+    "id": "uniC91G93",
+    "mascot": "The Bulldogs",
+    "mascot_name": "Uga",
+    "head_coach": "Kirby Smart",
+    "conference": "SEC",
+    "team_color_one": "#BA0C2F",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": 1,
+        "predicted_poll": 1,
+        "wins":15,
+        "losses":0
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Georgia_Athletics_logo.svg/1200px-Georgia_Athletics_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Georgia",
+        "location": "Savannah Georgia",
+        "date_founded": 1785
+      }
+    ]
+  },
+  {
+    "team_name": "TCU Horned Frogs",
+    "id": "uniCJ77YP",
+    "mascot": "The Horned Frogs",
+    "mascot_name": "SuperFrog",
+    "head_coach": "Sonny Dykes",
+    "conference": "Big-12",
+    "team_color_one": "#4D1979",
+    "team_color_two": "#A3A9AC",
+    "poll_position": [
+      {
+        "current_poll": 2,
+        "predicted_poll": 11
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TCU_Horned_Frogs_logo.svg/1920px-TCU_Horned_Frogs_logo.svg.png",
+    "university_info": [
+      {
+        "name": "Texas Christian University",
+        "location": "Fort Worth, Texas",
+        "date_founded": 1873
+      }
+    ]
+  },
+  {
+    "team_name": "Michigan Wolverines",
+    "id": "uni8NW6T5",
+    "mascot": "The Wolverines",
+    "mascot_name": "Biff",
+    "head_coach": "Jim Harbaugh",
+    "conference": "Big-Ten",
+    "team_color_one": "#00274C",
+    "team_color_two": "#FFCB05",
+    "poll_position": [
+      {
+        "current_poll": 3,
+        "predicted_poll": 2
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/1200px-Michigan_Wolverines_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Michigan",
+        "location": "Ann Arbor, Michigan",
+        "date_founded": 1817
+      }
+    ]
+  },
+  {
+    "team_name": "Ohio State Buckeyes",
+    "id": "uniVYG862",
+    "mascot": "The Buckeyes",
+    "mascot_name": "Brutus",
+    "head_coach": "Ryan Day",
+    "conference": "Big-Ten",
+    "team_color_one": "#BB0000",
+    "team_color_two": "#666666",
+    "poll_position": [
+      {
+        "current_poll": 4,
+        "predicted_poll": 3
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1200px-Ohio_State_Buckeyes_logo.svg.png",
+    "university_info": [
+      {
+        "name": "The Ohio State University",
+        "location": "Columbus, Ohio",
+        "date_founded": 1870
+      }
+    ]
+  },
+  {
+    "team_name": "Alabama Crimson Tide",
+    "id": "uniFCS7OS",
+    "mascot": "Crimson Tide",
+    "mascot_name": "Big Al the Elephant",
+    "head_coach": "Nick Saban",
+    "conference": "SEC",
+    "team_color_one": "#9E1B32",
+    "team_color_two": "#828A8F",
+    "poll_position": [
+      {
+        "current_poll": 5,
+        "predicted_poll": 4
+      }
+    ],
+
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alabama_Crimson_Tide_logo.svg/1024px-Alabama_Crimson_Tide_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Alabama",
+        "location": "Tuscaloosa, Alabama",
+        "date_founded": 1820
+      }
+    ]
+  },
+  {
+    "team_name": "Tennessee Volunteers",
+    "id": "uniQY0APQ",
+    "mascot": "The Volunteers",
+    "mascot_name": "Smokey the Bluetick Coonhound",
+    "head_coach": "Josh Heupel",
+    "conference": "SEC",
+    "team_color_one": "#FF8200",
+    "team_color_two": "#58595B",
+    "poll_position": [
+      {
+        "current_poll": 6,
+        "predicted_poll": 8
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/303px-Tennessee_Volunteers_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Tennessee",
+        "location": "Knoxville, Tennessee",
+        "date_founded": 1794
+      }
+    ]
+  },
+  {
+    "team_name": "Penn State",
+    "id": "uniX40KV8",
+    "mascot": "The Nittany Lions",
+    "mascot_name": "Nittany Lion",
+    "head_coach": "James Franklin",
+    "conference": "Big-Ten",
+    "team_color_one": "#041E42",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": 7,
+        "predicted_poll": 5
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1280px-Penn_State_Nittany_Lions_logo.svg.png",
+    "university_info": [
+      {
+        "name": "Penn State University",
+        "location": "University Park, Pennsylvania",
+        "date_founded": 1855
+      }
+    ]
+  },
+  {
+    "team_name": "Washington Huskies",
+    "id": "uniMZVOAG",
+    "mascot": "The Huskies",
+    "mascot_name": "Dubs II",
+    "head_coach": "Kalen DeBoer",
+    "conference": "Pac-12",
+    "team_color_one": "#4B2E83",
+    "team_color_two": "#B7A57A",
+    "poll_position": [
+      {
+        "current_poll": 8,
+        "predicted_poll": 7
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1024px-University_of_Washington_seal.svg.png",
+    "university_info": [
+      {
+        "name": "University of Washington",
+        "location": "Seattle, Washington",
+        "date_founded": 1861
+      }
+    ]
+  },
+  {
+    "team_name": "Tulane Green Wave",
+    "id": "uniHGJ949",
+    "mascot": "The Green Wave",
+    "mascot_name": "Riptide",
+    "head_coach": "Willie Fritz",
+    "conference": "AAC",
+    "team_color_one": "#006747",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": 9,
+        "predicted_poll": 14
+      }
+    ],
+    "logo": "https://tulanegreenwave.com/images/logos/site/site.png",
+    "university_info": [
+      {
+        "name": "Tulane University",
+        "location": "New Orleans, Louisiana",
+        "date_founded": 1834
+      }
+    ]
+  },
+  {
+    "team_name": "Florida State University",
+    "id": "uniU32DGI",
+    "mascot": "The Seminoles",
+    "mascot_name": "Chief Osceola and Renegade",
+    "head_coach": "Mike Norvell",
+    "conference": "ACC",
+    "team_color_one": "#782F40",
+    "team_color_two": "#CEB888",
+    "poll_position": [
+      {
+        "current_poll": 10,
+        "predicted_poll": 6
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/01/Florida-State-Seminoles-Logo-Colors.png",
+    "university_info": [
+      {
+        "name": "Florida State University",
+        "location": "Tallahassee, Florida",
+        "date_founded": 1851
+      }
+    ]
+  },
+  {
+    "team_name": "Utah Utes",
+    "id": "uniCT4ZOB",
+    "mascot": "The Utes",
+    "mascot_name": "Swoop the Red-Tailed Hawk",
+    "head_coach": "Kyle Whittingham",
+    "conference": "Pac-12",
+    "team_color_one": "#CC0000",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": 11,
+        "predicted_poll": 15
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Utah_Utes_logo.svg/1024px-Utah_Utes_logo.svg.png",
+    "university_info": [
+      {
+        "name": "University of Utah",
+        "location": "Salt Lake City, Utah",
+        "date_founded": 1850
+      }
+    ]
+  },
+  {
+    "team_name": "Clemson Tigers",
+    "id": "uniDRBEOV",
+    "mascot": "The Tigers",
+    "mascot_name": "The Tiger",
+    "head_coach": "Dabo Swinney",
+    "conference": "ACC",
+    "team_color_one": "#F56600",
+    "team_color_two": "#522D80",
+    "poll_position": [
+      {
+        "current_poll": 15,
+        "predicted_poll": 9
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/1024px-Clemson_Tigers_logo.svg.png",
+    "university_info": [
+      {
+        "name": "Clemson University",
+        "location": "Clemson, South Carolina",
+        "date_founded": 1889
+      }
+    ]
+  },
+  {
+    "team_name": "LSU Tigers",
+    "id": "uni9JA0JZ",
+    "mascot": "The Tiger",
+    "mascot_name": "Mike the Tiger",
+    "head_coach": "Brian Kelly",
+    "conference": "SEC",
+    "team_color_one": "#461D7C",
+    "team_color_two": "#FDD023",
+    "poll_position": [
+      {
+        "current_poll": 12,
+        "predicted_poll": 10
+      }
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LSU_Athletics_logo.svg/1920px-LSU_Athletics_logo.svg.png",
+    "university_info": [
+      {
+        "name": "Louisiana State University",
+        "location": "Baton Rouge, Louisiana",
+        "date_founded": 1860
+      }
+    ]
+  },
+  {
+    "team_name": "USC Trojans",
+    "id": "uniYH4G7A",
+    "mascot": "The Trojans",
+    "mascot_name": "Traveler the Noble White Horse",
+    "head_coach": "Lincoln Riley",
+    "conference": "Pac-12",
+    "team_color_one": "#990000",
+    "team_color_two": "#FFC72C",
+    "poll_position": [
+      {
+        "current_poll": 13,
+        "predicted_poll": 12
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/02/USC_Trojans_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Southern California",
+        "location": "Los Angeles, California",
+        "date_founded": 1880
+      }
+    ]
+  },
+  {
+    "team_name": "Oregon Ducks",
+    "id": "uniRAHDQO",
+    "mascot": "The Ducks",
+    "mascot_name": "The Duck",
+    "team_color_one": "#154733",
+    "team_color_two": "#FEE123",
+    "poll_position": [
+      {
+        "current_poll": 16,
+        "predicted_poll": 13
+      }
+    ],
+    "head_coach": "Dan Lanning",
+    "conference": "Pac-12",
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/02/Oregon_Ducks_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Oregon",
+        "location": "Eugene, Oregon",
+        "date_founded": 1876
+      }
+    ]
+  },
+  {
+    "team_name": "Notre Dame Fighting Irish",
+    "id": "uni4J0US0",
+    "mascot": "The Leprechaun",
+    "mascot_name": "The Notre Dame Leprechaun",
+    "head_coach": "Marcus Freeman",
+    "conference": "FBS Independent",
+    "team_color_one": "#0C2340",
+    "team_color_two": "#AE9142",
+    "poll_position": [
+      {
+        "current_poll": 18,
+        "predicted_poll": 16
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/11/Notre_Dame_Fighting_Irish_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Notre Dame",
+        "location": "Notre Dame, Indiana",
+        "date_founded": 1842
+      }
+    ]
+  },
+  {
+    "team_name": "Oregon State Beavers",
+    "id": "uniBM1SZF",
+    "mascot": "The Beavers",
+    "mascot_name": "Benny the Beaver",
+    "head_coach": "Jonathan Smith",
+    "conference": "Pac-12",
+    "team_color_one": "#DC4405",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": 17,
+        "predicted_poll": 17
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/02/Oregon-State-Beavers-Logo-300x166.png",
+    "university_info": [
+      {
+        "name": "Oregon State University",
+        "location": "Corvallis, Oregon",
+        "date_founded": 1868
+      }
+    ]
+  },
+  {
+    "team_name": "The Texas Longhorns",
+    "id": "uniBWXKX1",
+    "mascot": "The Longhorns",
+    "mascot_name": "Bevo",
+    "head_coach": "Steve Sarkisian",
+    "conference": "Big-12",
+    "team_color_one": "#BF5700",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": "Unranked",
+        "predicted_poll": 18
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Texas_Longhorns_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Texas at Austin",
+        "location": "Austin, Texas",
+        "date_founded": 1893
+      }
+    ]
+  },
+  {
+    "team_name": "Kansas State Wildcats",
+    "id": "uni70LSSR",
+    "mascot": "The Wildcats",
+    "mascot_name": "Willie the Wildcat",
+    "head_coach": "Chris Klieman",
+    "conference": "Big-12",
+    "team_color_one": "#512888",
+    "team_color_two": "#D1D1D1",
+    "poll_position": [
+      {
+        "current_poll": 19,
+        "predicted_poll": 19
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Kansas_State_Wildcats_logo.jpg",
+    "university_info": [
+      {
+        "name": "Kansas State University",
+        "location": "Manhattan, Kansas",
+        "date_founded": 1863
+      }
+    ]
+  },
+  {
+    "team_name": "Texas Tech",
+    "id": "uniUAFK5E",
+    "mascot": "The Red Raiders",
+    "mascot_name": "The Masked Rider",
+    "head_coach": "Joey McGuire",
+    "conference": "Big-12",
+    "team_color_one": "#CC0000",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": "Unranked",
+        "predicted_poll": 20
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/11/Texas_Tech_Red_Raiders_logo.jpg",
+    "university_info": [
+      {
+        "name": "Texas Tech University",
+        "location": "Lubbock, Texas",
+        "date_founded": 1923
+      }
+    ]
+  },
+  {
+    "team_name": "Iowa Hawkeyes",
+    "id": "uniEPRTN5",
+    "mascot": "The Hawkeyes",
+    "mascot_name": "Herky the Hawk",
+    "head_coach": "Kirk Ferentz",
+    "conference": "Big-Ten",
+    "team_color_one": "#FFCD00",
+    "team_color_two": "#000000",
+    "poll_position": [
+      {
+        "current_poll": "Unranked",
+        "predicted_poll": 21
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/12/Iowa_Hawkeyes_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Iowa",
+        "location": "Iowa City, Iowa",
+        "date_founded": 1847
+      }
+    ]
+  },
+  {
+    "team_name": "North Carolina Tar Heels",
+    "id": "uniFAZNO2",
+    "mascot": "The Tar Heels",
+    "mascot_name": "Rameses the Ram",
+    "head_coach": "Mack Brown",
+    "conference": "ACC",
+    "team_color_one": "#7BAFD4",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": 3,
+        "predicted_poll": 2
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2015/11/North_Carolina_Tar_Heels_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of North Carolina at Chapel Hill",
+        "location": "Chapel Hill, North Carolina",
+        "date_founded": 1789
+      }
+    ]
+  },
+  {
+    "team_name": "Wisconsin Badgers",
+    "id": "uniMPZXLU",
+    "mascot": "The Badgers",
+    "mascot_name": "Bucky Badger",
+    "head_coach": "Luke Fickell",
+    "conference": "Big-Ten",
+    "team_color_one": "#C5050C",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": "Unranked",
+        "predicted_poll": 23
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2017/10/Wisconsin_Badgers_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Wisconsin-Madison",
+        "location": "Madison, Wisconsin",
+        "date_founded": 1848
+      }
+    ]
+  },
+  {
+    "team_name": "Troy Trojans",
+    "id": "uniCCV09T",
+    "mascot": "The Trojans",
+    "mascot_name": "T-Roy",
+    "head_coach": "Jon Sumrall",
+    "conference": "Sun Belt",
+    "team_color_one": "#C5050C",
+    "team_color_two": "#FFFFFF",
+    "poll_position": [
+      {
+        "current_poll": 20,
+        "predicted_poll": 24
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2020/05/Troj-Troyans-Logo.png",
+    "university_info": [
+      {
+        "name": "Troy University",
+        "location": "Troy, Alabama",
+        "date_founded": 1887
+      }
+    ]
+  },
+  {
+    "team_name": "Ole Miss",
+    "id": "uni6S9L3L",
+    "mascot": "The Rebels",
+    "mascot_name": "Landshark",
+    "head_coach": "Lane Kiffin",
+    "conference": "SEC",
+    "team_color_one": "#CE1126",
+    "team_color_two": "#14213D",
+    "poll_position": [
+      {
+        "current_poll": "Unranked",
+        "predicted_poll": 25
+      }
+    ],
+    "logo": "https://teamcolorcodes.com/wp-content/uploads/2016/10/Ole_Miss_Rebels_logo.jpg",
+    "university_info": [
+      {
+        "name": "University of Mississippi",
+        "location": "Oxford, Mississippi",
+        "date_founded": 1884
+      }
+    ]
+  }
+]

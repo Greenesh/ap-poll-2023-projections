@@ -1,4 +1,41 @@
 body {
-  margin: 0;
-  width: 100vh;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url('https://img.freepik.com/free-vector/realistic-american-footbal-field_23-2148806943.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px 25px 50px;
+  font-size: 3em;
+  color: white;
+}
+
+img {
+  width: 250px;
+  height: 188px;
+  margin: 10px 0px;
+}
+
+.all-teams {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto;
+  width: 100%;
+}
+
+.team-data {
+  padding: 25px;
+  margin: 25px;
+  text-align: center;
+  align-self: center;
+  background: white;
+  /* border: black 10px solid; */
 }
