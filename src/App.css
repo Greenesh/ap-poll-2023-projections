@@ -47,7 +47,6 @@ h4 {
   justify-content: center;
   align-items: center;
   background: white;
-  border: 10px darkolivegreen solid;
 }
 
 .overview {
@@ -65,10 +64,17 @@ h4 {
   padding: 25px;
 }
 
+.predicted {
+  display: flex;
+  justify-content: center;
+}
+
 .new-rank {
-  background-color: #782F40;
+  background-color: darkred;
   color: white;
-  font-size: 40px;
+  font-size: 50px;
+  padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {

@@ -2,9 +2,13 @@
 const Rank = ({rank}) => {
   return (
     <div className="poll">
-      <div className="prediction">
+      <div className="current">
         <p>Current Rank: {rank.current_poll}</p>
-        <p className="new-rank">Predicted Rank: {rank.predicted_poll}</p>
+        <div className="predicted">
+          <div className="prediction">
+        <p className="new-rank">{rank.predicted_poll}</p>
+        </div>
+        </div>
       </div>
     </div>
   )
