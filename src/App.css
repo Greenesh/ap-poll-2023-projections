@@ -80,6 +80,12 @@ h4 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.current {
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+}
+
 p {
   font-size: 20px;
 }
