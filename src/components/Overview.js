@@ -2,7 +2,7 @@ const Overview = ({overview}) => {
   return (
     <div className="overview">
       <p className="overview-text">Georgia was No. 1 in the final Associated Press Top 25 college football poll, becoming the 12th back-to-back national champion in the history of the rankings after routing TCU during the CFP National Championship.
-        The Bulldogs won the College Football Playoff national championship game 65-7, securing their third AP title overall—their first came in 1980. Georgia also became the 14th school with as many as three AP national titles.
+        The Bulldogs won the College Football Playoff national championship game 65-7, securing their third AP title overall—their first came in 1980. Georgia also became the 14th school with at least three AP national titles.
       The last team to finish consecutive seasons at No. 1 in the AP Top 25 was Alabama in 2011 and 2012.</p>
       
       <p className="overview-text">The 2023 college football season doesn't officially start until August, but it's never too early to look ahead and project the Top 25 rankings for next year. 
