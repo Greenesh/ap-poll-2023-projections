@@ -7,7 +7,8 @@ const Teams = ({ teams }) => {
       <h4>Head Coach: {teams.head_coach}</h4>
         <p>Mascot: {teams.mascot_name}</p>
         <p>Conference: {teams.conference}</p>
-      </div>
+        <p>{teams.wins} - {teams.losses}</p>
+        </div>
     </div>
   )
 }

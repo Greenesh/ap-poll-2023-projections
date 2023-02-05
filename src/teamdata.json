@@ -8,12 +8,12 @@
     "conference": "SEC",
     "team_color_one": "#BA0C2F",
     "team_color_two": "#000000",
+    "wins":15,
+    "losses":0,
     "poll_position": [
       {
         "current_poll": 1,
-        "predicted_poll": 1,
-        "wins":15,
-        "losses":0
+        "predicted_poll": 1
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Georgia_Athletics_logo.svg/1200px-Georgia_Athletics_logo.svg.png",
@@ -34,12 +34,12 @@
     "conference": "Big-Ten",
     "team_color_one": "#00274C",
     "team_color_two": "#FFCB05",
+    "wins":13,
+    "losses":1,
     "poll_position": [
       {
         "current_poll": 3,
-        "predicted_poll": 2,
-        "wins":13,
-        "losses":1
+        "predicted_poll": 2
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/1200px-Michigan_Wolverines_logo.svg.png",
@@ -60,12 +60,12 @@
     "conference": "Big-Ten",
     "team_color_one": "#BB0000",
     "team_color_two": "#666666",
+    "wins":11,
+    "losses":2,
     "poll_position": [
       {
         "current_poll": 4,
-        "predicted_poll": 3,
-        "wins":11,
-        "losses":2
+        "predicted_poll": 3
       }
     ],
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ohio_State_Buckeyes_logo.svg/1200px-Ohio_State_Buckeyes_logo.svg.png",

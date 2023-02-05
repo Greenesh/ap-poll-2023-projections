@@ -3,11 +3,14 @@ import teamData from './teamdata.json'
 import Teams from './components/Teams'
 import Prediction from './components/Prediction'
 import Overview from './components/Overview'
+import Navbar from './components/Navigation'
 
 
 
 const App = () => {
   return (
+    <div>
+    <div> <Navbar /></div>
     <div className='page'>
       <h1>NCAA College Football AP Top 25 2023 Predictions</h1>
       <h3>Georgia tops the way-too-early preseason college football rankings for 2023</h3>
@@ -24,7 +27,8 @@ const App = () => {
           </div>
         ))}
       </div>
-    </div>   
+    </div>
+  </div>   
   )
 }
 
